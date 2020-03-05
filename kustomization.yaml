@@ -5,4 +5,4 @@ namespace: testing-namespace
 
 images:
 - name: moredhel/renovate-test-1
-  newTag: v0.0.1
+  newTag: v0.0.2

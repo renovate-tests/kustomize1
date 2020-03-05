@@ -8,7 +8,7 @@ resources:
 
 images:
 - name: node
-  newTag: v0.1.0
+  newTag: 13.8.0
 - newTag: v0.0.1
   name: group/instance
 - name: quay.io/test/repo
